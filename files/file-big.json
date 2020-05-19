@@ -1,0 +1,10 @@
+[
+    {"coordinates" : {"x" : 4, "y" : 2}, "treasure" : {"name" : "treasure chest", "value": 120}},
+    {"coordinates" : {"x" : -2, "y" : 0}, "treasure" : {"name" : "green charm", "value": 5}},
+    {"coordinates" : {"x" : -2, "y" : 1}, "treasure" : {"name" : "Blue diamond", "value": 40}},
+    {"coordinates" : {"x" : 3, "y" : 0}, "treasure" : {"name" : "green charm", "value": 5}},
+    {"coordinates" : {"x" : 1, "y" : 0}, "treasure" : {"name" : "green charm", "value": 5}},
+    {"coordinates" : {"x" : -2, "y" : 3}, "treasure" : {"name" : "Blue diamond", "value": 40}},
+    {"coordinates" : {"x" : -3, "y" : 0}, "treasure" : {"name" : "treasure chest", "value": 120}}
+
+]
